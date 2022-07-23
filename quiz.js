@@ -1,6 +1,6 @@
-var Inputans = require("readline-sync")
+var Inputans = require('readline-sync')
 var score = 0
-var Questions = ["Which character has a twin?", "Who was Monica’s first kiss?","How many sisters does Joey have?","How many times has Ross been married?","What nickname did Monica’s dad give her?",]
+var Questions = ["Which character has a twin?", "Who was Monica-s first kiss?","How many sisters does Joey have?","How many times has Ross been married?","What nickname did Monica-s dad give her?",]
 
 
 var options = ["A: Rachel , B: Phoebe ", "A: Chandler , B: Ross ", "A: 7 , B: 6 ", "A: 3 , B: 4 ", "A: Tiny Electronica , B: Little Harmonica "]
